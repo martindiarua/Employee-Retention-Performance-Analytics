@@ -23,6 +23,7 @@ Employee turnover was sitting at **16.6%** — roughly 1 in 6 employees leaving.
 ## Dashboard
 
 An interactive dashboard visualizes turnover by department, salary, tenure, and workload/satisfaction combinations, alongside top-line KPIs (headcount, turnover %, average monthly hours).
+![Dashboard screenshot](dashboard/dashboard.png)
 
 ## Business Report
 
